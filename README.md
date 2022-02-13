@@ -8,6 +8,10 @@
 
 <img src="into-Images/intotech.gif" width="600">
 
+<img src="into-Images/intotech1.gif" width="600">
+
+<img src="into-Images/intotech2.gif" width="600">
+
 # About 
 
 The intoTech project, software used to create this is: React, Node.js, Express & MongoDB also know as MERN which is a type of Full stack. 

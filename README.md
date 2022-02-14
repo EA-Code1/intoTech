@@ -6,7 +6,8 @@ The infomation in the grey box under the search box: Please Sign In to create yo
 You can search a specific post by using the search or tag search. 
 <img src="into-Images/search&tags.png" width="600">
 
-A user with an account can sign in move to the next page, expand a post and read it fully. Also select a recommended post.
+A user with an account can sign in move to the next page, expand a post and read it fully. 
+Also select a recommended post.
 <img src="into-Images/intotech.gif" width="600">
 
 You can delete, create posts and comment within the posts.
@@ -15,8 +16,8 @@ You can delete, create posts and comment within the posts.
 A user can sign up and create an account to use the app. You can see this user's account information in the database. 
 <img src="into-Images/intotech2.gif" width="600">
 
-The Google OAuth form shows up but the default windows screen recorder doesn't capture that part, when I fill in the Google form. 
-It works and shows when using the app. 
+The Google OAuth form shows up but the default windows screen recorder doesn't capture that part. 
+When I fill in the Google form, it works and shows when using the app. 
 In the gif I can log with the google account and liked one of the google account posts. 
 In the mongodb database you can see two likes with the iphone 11 post created by the google account.
 <img src="into-Images/intotech3.gif" width="600">

@@ -8,6 +8,7 @@ You can search a specific post by using the search or tag search.
 
 A user with an account can sign in move to the next page, expand a post and read it fully. 
 Also select a recommended post.
+
 <img src="into-Images/intotech.gif" width="560">
 
 You can delete, create posts and comment within the posts.
@@ -20,6 +21,7 @@ The Google OAuth form shows up but the default windows screen recorder doesn't c
 When I fill in the Google form, it works and shows when using the app. 
 In the gif I can log with the google account and liked one of the google account posts. 
 In the mongodb database you can see two likes with the iphone 11 post created by the google account.
+
 <img src="into-Images/intotech3.gif" width="560">
 
 

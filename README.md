@@ -16,7 +16,8 @@ A user can sign up and create an account to use the app. You can see this user's
 <img src="into-Images/intotech2.gif" width="600">
 
 The Google OAuth form shows up but the default windows screen recorder doesn't capture that part, when I fill in the Google form. 
-It works and shows when using the app. In the gif I can log with the google account and liked one of the google account posts. 
+It works and shows when using the app. 
+In the gif I can log with the google account and liked one of the google account posts. 
 In the mongodb database you can see two likes with the iphone 11 post created by the google account.
 <img src="into-Images/intotech3.gif" width="600">
 

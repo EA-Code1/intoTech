@@ -1,5 +1,5 @@
 # intoTech
-
+Images and Gifs below.
 The infomation in the grey box under the search box: Please Sign In to create your own posts and like other's posts. 
 <img src="into-Images/ittappsignin.png" width="600">
  

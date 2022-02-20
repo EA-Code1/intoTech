@@ -33,4 +33,4 @@ The intoTech project is a simple social media application, with this app you can
 A user can only create, like, edit, delete and comment posts if they have an account. 
 The front end is React, the backend connected is Node.js on top of that Express and the database linked to this is MongoDB. 
 
-[Your Link Here](https://intotech.netlify.app)
+[Live Link](https://intotech.netlify.app)

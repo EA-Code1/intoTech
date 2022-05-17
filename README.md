@@ -3,6 +3,7 @@
 
 The infomation in the grey box under the search box: Is asking users
 sign in to create your own posts and like user's posts. 
+<br>
 <img src="into-Images/ittappsignin.png" width="600">
  
 You can search a specific post by using the search or tag search. 
